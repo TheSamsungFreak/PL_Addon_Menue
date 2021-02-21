@@ -2,15 +2,6 @@
 
 <channels> 
 <channel> 
-<name>[B]Dla Dzieci[/B]</name> 
-<thumbnail>https://ia802901.us.archive.org/30/items/polska_202003/Polska.png</thumbnail> 
-<externallink>https://raw.githubusercontent.com/anton432/M3U/master/Dla_Dzieci_Bajki.m3u</externallink> 
-<fanart>https://ia802901.us.archive.org/30/items/polska_202003/Polska.png</fanart> 
-<info></info> 
-</channel>
-
-<channels> 
-<channel> 
 <name>[B]Filmy[/B]</name> 
 <thumbnail>https://ia802901.us.archive.org/30/items/polska_202003/Polska.png</thumbnail> 
 <externallink>https://raw.githubusercontent.com/anton432/Filmy_PL/master/Filmy_PL_Menue</externallink> 
