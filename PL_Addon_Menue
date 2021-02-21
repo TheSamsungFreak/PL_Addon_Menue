@@ -4,7 +4,7 @@
 <channel> 
 <name>[B]Filmy[/B]</name> 
 <thumbnail>https://ia802901.us.archive.org/30/items/polska_202003/Polska.png</thumbnail> 
-<externallink>https://raw.githubusercontent.com/anton432/Filmy_PL/master/Filmy_PL_Menue</externallink> 
+<externallink>https://raw.githubusercontent.com/TheSamsungFreak/Filmy_PL_Menue/main/Filmy_PL_Menue</externallink> 
 <fanart>https://ia802901.us.archive.org/30/items/polska_202003/Polska.png</fanart> 
 <info></info> 
 </channel>
@@ -13,7 +13,7 @@
 <channel> 
 <name>[B]Seriale[/B]</name> 
 <thumbnail>https://ia802901.us.archive.org/30/items/polska_202003/Polska.png</thumbnail> 
-<externallink>https://raw.githubusercontent.com/anton432/Seriale_PL/master/Seriale_PL_Menue</externallink> 
+<externallink>https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_Menue/main/Seriale_PL_Menue</externallink> 
 <fanart>https://ia802901.us.archive.org/30/items/polska_202003/Polska.png</fanart> 
 <info></info> 
 </channel>
@@ -22,7 +22,7 @@
 <channel> 
 <name>[B]Telewizja[/B]</name> 
 <thumbnail>https://ia802901.us.archive.org/30/items/polska_202003/Polska.png</thumbnail> 
-<externallink>https://raw.githubusercontent.com/anton432/PL_Addon_NEW/master/DE_PL_TV</externallink> 
+<externallink>https://raw.githubusercontent.com/TheSamsungFreak/PL_TV_M3U/main/PL_TV_M3U</externallink> 
 <fanart>https://ia802901.us.archive.org/30/items/polska_202003/Polska.png</fanart> 
 <info></info> 
 </channel> 
